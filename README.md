@@ -1,5 +1,9 @@
 # MEGO_Book_ภาษาไทย
 
+ดาวน์โหลด PDF Book ได้ที่นี่ (ฉบับร่าง 07-2018) 107 หน้า
+
+https://github.com/QWaveSystems/MEGO_Book_TH/raw/master/MEGO_Book__0.3_107pages_Amornthep_26072018.pdf
+
 บทที่ 1. การใช้งานบอร์ด MEGO และ MEGO Node เบื้องต้น
 
 บทที่ 2. การติดตั้งโปรแกรม LabVIEW
@@ -15,10 +19,6 @@
 บทที่ 7. การเขียนโปรแกรม LabVIEW เบื้องต้น
 
 บทเสริม A: การตั้งค่าใช้งานบอร์ด MEGO Node กับ LINE Service
-
-ดาวน์โหลด PDF Book ได้ที่นี่ (ฉบับร่าง 07-2018) 107 หน้า
-
-https://github.com/QWaveSystems/MEGO_Book_TH/raw/master/MEGO_Book__0.3_107pages_Amornthep_26072018.pdf
 
 ดาวน์โหลด MEGO LabVIEW Driver ได้ที่นี่ (ไฟล์นามสกุล .vip)
 https://github.com/QWaveSystems/MEGO_MEGO-Node_LabVIEW-Driver/releases
